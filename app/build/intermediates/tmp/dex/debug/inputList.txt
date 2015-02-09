@@ -1,0 +1,11 @@
+/Users/xiaohu/Downloads/MySimpleTweets/app/build/intermediates/classes/debug
+/Users/xiaohu/Downloads/MySimpleTweets/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-b2a94d6c3378957f720f530fb4833bb4409ad4b1.jar
+/Users/xiaohu/Downloads/MySimpleTweets/app/build/intermediates/pre-dexed/debug/codepath-utils-0c7d6e14cae5195da1e784d45e29959aa50b3503.jar
+/Users/xiaohu/Downloads/MySimpleTweets/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.4.1-0314da060cbeac9ca3657d31b7d87e2512f55d36.jar
+/Users/xiaohu/Downloads/MySimpleTweets/app/build/intermediates/pre-dexed/debug/ActiveAndroid-3.1-08c6335cd-8cf981cf545e91a124bfa2126891b408b077ec89.jar
+/Users/xiaohu/Downloads/MySimpleTweets/app/build/intermediates/pre-dexed/debug/scribe-codepath-0.0.3-5e3f5ca7308d46722892905c7e73c481daf490a7.jar
+/Users/xiaohu/Downloads/MySimpleTweets/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-f4766af7fafe7a292a0dca0f3feb215cc9203229.jar
+/Users/xiaohu/Downloads/MySimpleTweets/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-6b48ad2a27014ff4581a1b489ec56910428770dc.jar
+/Users/xiaohu/Downloads/MySimpleTweets/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-0351406f1c6a9b9db29d19c3f0fd05d7d7030646.jar
+/Users/xiaohu/Downloads/MySimpleTweets/app/build/intermediates/pre-dexed/debug/classes-aa73222d3e483d9c16e3b5c65c3b9eaa089ecf67.jar
+/Users/xiaohu/Downloads/MySimpleTweets/app/build/intermediates/pre-dexed/debug/classes-67ff84ffedd813a2169723d241abb94401d0787a.jar
