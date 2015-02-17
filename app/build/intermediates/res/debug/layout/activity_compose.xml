@@ -69,4 +69,4 @@
         android:layout_alignLeft="@+id/tvUserId"
         android:layout_alignStart="@+id/tvUserId" />
 </RelativeLayout>
-<!-- From: file:/Users/xiaohu/Downloads/MySimpleTweets/app/src/main/res/layout/activity_compose.xml -->
+<!-- From: file:/Users/xiaohu/Android-Bootcamp-Assignment-3-Simple-Tweeter/app/src/main/res/layout/activity_compose.xml -->

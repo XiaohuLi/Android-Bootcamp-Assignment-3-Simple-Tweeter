@@ -32,4 +32,4 @@
               android:ellipsize="end"
               android:visibility="gone" />
 </LinearLayout>
-<!-- From: file:/Users/xiaohu/Downloads/MySimpleTweets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/layout/abc_action_bar_title_item.xml -->
+<!-- From: file:/Users/xiaohu/Android-Bootcamp-Assignment-3-Simple-Tweeter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/layout/abc_action_bar_title_item.xml -->

@@ -16,4 +16,4 @@
         android:onClick="loginToRest"
         android:text="@string/login_label" />
 
-</RelativeLayout><!-- From: file:/Users/xiaohu/Downloads/MySimpleTweets/app/src/main/res/layout/activity_login.xml -->
+</RelativeLayout><!-- From: file:/Users/xiaohu/Android-Bootcamp-Assignment-3-Simple-Tweeter/app/src/main/res/layout/activity_login.xml -->

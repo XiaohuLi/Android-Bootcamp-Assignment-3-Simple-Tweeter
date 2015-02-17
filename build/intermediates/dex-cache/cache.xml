@@ -2,11 +2,25 @@
 <items version="2" >
 
     <item
-        jar="/Users/xiaohu/Downloads/MySimpleTweets/app/libs/codepath-oauth-0.4.1.jar"
+        jar="/Users/xiaohu/Android-Bootcamp-Assignment-3-Simple-Tweeter/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="e2bf2d92cfe90d44287c510d955d0c979631e99e">
-        <dex dex="/Users/xiaohu/Downloads/MySimpleTweets/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.4.1-0314da060cbeac9ca3657d31b7d87e2512f55d36.jar" />
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/xiaohu/Android-Bootcamp-Assignment-3-Simple-Tweeter/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-903525bb3ed9074cd4190418480c0c9f9d3a5c99.jar" />
+    </item>
+    <item
+        jar="/Users/xiaohu/Android-Bootcamp-Assignment-3-Simple-Tweeter/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/xiaohu/Android-Bootcamp-Assignment-3-Simple-Tweeter/app/build/intermediates/pre-dexed/debug/classes-1374e9fde758ec961739776a6ebefda870fde9c6.jar" />
+    </item>
+    <item
+        jar="/Users/xiaohu/Android-Bootcamp-Assignment-3-Simple-Tweeter/app/libs/scribe-codepath-0.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a580d06de954001f787e8d024bfcf931fe30bdda">
+        <dex dex="/Users/xiaohu/Android-Bootcamp-Assignment-3-Simple-Tweeter/app/build/intermediates/pre-dexed/debug/scribe-codepath-0.0.3-c5f915300e67b972a609c507ed8a41703a2a763a.jar" />
     </item>
     <item
         jar="/Users/xiaohu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
@@ -16,18 +30,11 @@
         <dex dex="/Users/xiaohu/Downloads/MySimpleTweets/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-b2a94d6c3378957f720f530fb4833bb4409ad4b1.jar" />
     </item>
     <item
-        jar="/Users/xiaohu/Downloads/MySimpleTweets/app/libs/codepath-utils.jar"
+        jar="/Users/xiaohu/Android-Bootcamp-Assignment-3-Simple-Tweeter/app/libs/codepath-utils.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="10901a5ef726eacf1b2443b7f38dc4cc9cd3f7d4">
-        <dex dex="/Users/xiaohu/Downloads/MySimpleTweets/app/build/intermediates/pre-dexed/debug/codepath-utils-0c7d6e14cae5195da1e784d45e29959aa50b3503.jar" />
-    </item>
-    <item
-        jar="/Users/xiaohu/Downloads/MySimpleTweets/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
-        <dex dex="/Users/xiaohu/Downloads/MySimpleTweets/app/build/intermediates/pre-dexed/debug/classes-67ff84ffedd813a2169723d241abb94401d0787a.jar" />
+        <dex dex="/Users/xiaohu/Android-Bootcamp-Assignment-3-Simple-Tweeter/app/build/intermediates/pre-dexed/debug/codepath-utils-728fbe14bbde671b5dab67163352eba33e512fb6.jar" />
     </item>
     <item
         jar="/Users/xiaohu/Downloads/MySimpleTweets/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
@@ -35,20 +42,6 @@
         revision="21.1.2"
         sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
         <dex dex="/Users/xiaohu/Downloads/MySimpleTweets/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-0351406f1c6a9b9db29d19c3f0fd05d7d7030646.jar" />
-    </item>
-    <item
-        jar="/Users/xiaohu/Downloads/MySimpleTweets/app/libs/ActiveAndroid-3.1-08c6335cd.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="955936734b2b876772fdaf23d1bec3820fb0d1d5">
-        <dex dex="/Users/xiaohu/Downloads/MySimpleTweets/app/build/intermediates/pre-dexed/debug/ActiveAndroid-3.1-08c6335cd-8cf981cf545e91a124bfa2126891b408b077ec89.jar" />
-    </item>
-    <item
-        jar="/Users/xiaohu/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.6/a845a88238be0b5be9d238652c1bc0605ef91f52/android-async-http-1.4.6.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
-        <dex dex="/Users/xiaohu/Downloads/MySimpleTweets/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-f4766af7fafe7a292a0dca0f3feb215cc9203229.jar" />
     </item>
     <item
         jar="/Users/xiaohu/Downloads/MySimpleTweets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/classes.jar"
@@ -65,11 +58,74 @@
         <dex dex="/Users/xiaohu/Downloads/MySimpleTweets/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-6b48ad2a27014ff4581a1b489ec56910428770dc.jar" />
     </item>
     <item
+        jar="/Users/xiaohu/Android-Bootcamp-Assignment-3-Simple-Tweeter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="/Users/xiaohu/Android-Bootcamp-Assignment-3-Simple-Tweeter/app/build/intermediates/pre-dexed/debug/classes-990a0c6920166cbada938128b9747ce6fb93bce1.jar" />
+    </item>
+    <item
         jar="/Users/xiaohu/Downloads/MySimpleTweets/app/libs/scribe-codepath-0.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="a580d06de954001f787e8d024bfcf931fe30bdda">
         <dex dex="/Users/xiaohu/Downloads/MySimpleTweets/app/build/intermediates/pre-dexed/debug/scribe-codepath-0.0.3-5e3f5ca7308d46722892905c7e73c481daf490a7.jar" />
+    </item>
+    <item
+        jar="/Users/xiaohu/Android-Bootcamp-Assignment-3-Simple-Tweeter/app/libs/ActiveAndroid-3.1-08c6335cd.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="955936734b2b876772fdaf23d1bec3820fb0d1d5">
+        <dex dex="/Users/xiaohu/Android-Bootcamp-Assignment-3-Simple-Tweeter/app/build/intermediates/pre-dexed/debug/ActiveAndroid-3.1-08c6335cd-0a1999182c4cf32d9652c6c09dff023ffcedca5a.jar" />
+    </item>
+    <item
+        jar="/Users/xiaohu/Downloads/MySimpleTweets/app/libs/codepath-oauth-0.4.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e2bf2d92cfe90d44287c510d955d0c979631e99e">
+        <dex dex="/Users/xiaohu/Downloads/MySimpleTweets/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.4.1-0314da060cbeac9ca3657d31b7d87e2512f55d36.jar" />
+    </item>
+    <item
+        jar="/Users/xiaohu/Downloads/MySimpleTweets/app/libs/codepath-utils.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="10901a5ef726eacf1b2443b7f38dc4cc9cd3f7d4">
+        <dex dex="/Users/xiaohu/Downloads/MySimpleTweets/app/build/intermediates/pre-dexed/debug/codepath-utils-0c7d6e14cae5195da1e784d45e29959aa50b3503.jar" />
+    </item>
+    <item
+        jar="/Users/xiaohu/Downloads/MySimpleTweets/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/xiaohu/Downloads/MySimpleTweets/app/build/intermediates/pre-dexed/debug/classes-67ff84ffedd813a2169723d241abb94401d0787a.jar" />
+    </item>
+    <item
+        jar="/Users/xiaohu/Android-Bootcamp-Assignment-3-Simple-Tweeter/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="/Users/xiaohu/Android-Bootcamp-Assignment-3-Simple-Tweeter/app/build/intermediates/pre-dexed/debug/classes-3f28edb8d6d162eb23d473a32e1b19e2851236aa.jar" />
+    </item>
+    <item
+        jar="/Users/xiaohu/Downloads/MySimpleTweets/app/libs/ActiveAndroid-3.1-08c6335cd.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="955936734b2b876772fdaf23d1bec3820fb0d1d5">
+        <dex dex="/Users/xiaohu/Downloads/MySimpleTweets/app/build/intermediates/pre-dexed/debug/ActiveAndroid-3.1-08c6335cd-8cf981cf545e91a124bfa2126891b408b077ec89.jar" />
+    </item>
+    <item
+        jar="/Users/xiaohu/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.6/a845a88238be0b5be9d238652c1bc0605ef91f52/android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="/Users/xiaohu/Downloads/MySimpleTweets/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-f4766af7fafe7a292a0dca0f3feb215cc9203229.jar" />
+    </item>
+    <item
+        jar="/Users/xiaohu/Android-Bootcamp-Assignment-3-Simple-Tweeter/app/libs/codepath-oauth-0.4.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e2bf2d92cfe90d44287c510d955d0c979631e99e">
+        <dex dex="/Users/xiaohu/Android-Bootcamp-Assignment-3-Simple-Tweeter/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.4.1-d72bb198a47aeb38000d03bafd1a793a418cb970.jar" />
     </item>
 
 </items>
